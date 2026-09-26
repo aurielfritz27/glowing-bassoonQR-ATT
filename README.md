@@ -15,7 +15,7 @@
 
 ## About
 
-**QR‑ATT** is a cross‑platform mobile app (iOS, Android, and Web via Expo Router) that replaces paper sign‑in sheets with QR‑code check‑ins. Teachers generate a QR code for a class or event; students scan it with their phone camera to record their attendance instantly. All data is stored in Supabase (Postgres + Auth).
+**QR‑ATT** is an android app that replaces paper sign‑in sheets with QR‑code check‑ins. Teachers generate a QR code for a class or event; students scan it with their phone camera to record their attendance instantly. All data is stored in Supabase (Postgres + Auth).
 
 ## ✨ Features
 
